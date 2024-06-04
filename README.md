@@ -7,11 +7,17 @@ The data is sourced from [Transport For London](https://tfl.gov.uk/corporate/pub
 # Data Cleaning and Analysis
 All the cleaning and analysis is done on a jupyter notebook: [London Bus Safety Performance](/London%20Bus%20Safety%20Performance.ipynb).
 
-The questions I answered are:
-1. What year have the most injuries?
-2. Which months have the most injuries?
-3. Does the borough have an effect on the frequency of collision injuries?
-4. Which bus operator have the most "Serious" or "Fatal" injuries?
+## The questions I answered are:
+### 1. What year have the most incidents?
+![Injuries per year](/images/Incidents%20per%20Year.png)
+### 2. Which months have the most incidents?
+![Injuries per month](/images/Incidents%20per%20Month.png)
+### 3. Does the borough have an effect on the frequency of collision incidents?
+![Collisions](/images/Collision.png)
+### 4. Which bus operator have the most fatal incidents?
+![Fatal](/images/Fatal%20Injuries.png)
+
+
 
 
 
