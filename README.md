@@ -1,6 +1,6 @@
 # London Bus Performance
 # Introduction
-This is a dataset contains the details of all bus related injuries since 2014 in London. The dataset includes the date of the incident, route, bus operator, gender, injury outcome, and more. This data is important for creating action plans and strategies for bus safety, as well as reporting trends and patterns.
+This is a dataset that contains the details of all bus related injuries in London since 2014. The dataset includes the date of the incident, route, bus operator, gender, injury outcome, and more. This data is important for creating action plans and strategies for bus safety, as well as reporting trends and patterns.
 
 The data is sourced from [Transport For London](https://tfl.gov.uk/corporate/publications-and-reports/bus-safety-data)
 
