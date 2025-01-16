@@ -17,9 +17,3 @@ All the cleaning and analysis is done on a jupyter notebook: [London Bus Safety 
 ### 4. Which bus operator have the most fatal incidents?
 ![Fatal](/images/Fatal%20Injuries.png)
 
-
-
-
-
-# Further Analysis
-There is so much to uncover in this dataset. I will continue to add questions to answer and analysis in the future, as well as data visualization on Tableu.
